@@ -3,12 +3,12 @@ replay bchabc &amp; bchsv
 
 
 # build
-
+```
 mkdir bin
 cd bin
 cmake ..
 make
-
+```
 
 # usage
 ``` ./broadcast url_abc url_sv auth_abc auth_sv txid
